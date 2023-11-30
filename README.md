@@ -1,14 +1,14 @@
-# bank-assistant-bot
-Bank Assistant chat bot using LLM and AstraDB
+# bank-assistant-new
+Bankflix is a chatbot using LangChain and AstraDB
 
 This assistant is an adaptation of the [Bank Assistant](https://github.com/Jeremya/bank-assistant-bot) built on [AstraPy](https://github.com/datastax/astrapy)
 
-It is using OpenAI to build embeddings and Astra to store the data.
+It is powered by OpenAI to build embeddings and Astra to store the data.
 
 ## Pre-requisites
 
 - Python 3.6+
-- Launch an [AstraDB](https://astra.datastax.com/) database or use [Chroma](https://www.trychroma.com/)
+- Launch an [AstraDB](https://astra.datastax.com/) vector database
 
 ## Setup
 
