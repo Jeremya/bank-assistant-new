@@ -1,7 +1,8 @@
 # bank-assistant-new
 Bankflix is a chatbot using LangChain and AstraDB
 
-This assistant is an adaptation of the [Bank Assistant](https://github.com/Jeremya/bank-assistant-bot) built on [AstraPy](https://github.com/datastax/astrapy)
+
+This assistant is built on [RAGStack-AI](https://docs.datastax.com/en/ragstack/docs/quickstart.html) and [AstraPy](https://github.com/datastax/astrapy)
 
 It is powered by OpenAI to build embeddings and Astra to store the data.
 

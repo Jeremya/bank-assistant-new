@@ -15,4 +15,4 @@ def load_and_insert_data(config_path, csv_path):
 
 
 # Call the function with paths
-load_and_insert_data('.env', '../resources/clients-dataset.csv')
+load_and_insert_data('.env', 'resources/clients-dataset.csv')
